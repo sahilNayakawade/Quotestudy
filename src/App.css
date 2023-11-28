@@ -1,0 +1,12 @@
+.blank{
+    color: red;
+    font-size: large;
+    font-weight: 400;
+}
+nav{
+    display: flex;
+    font-size: larger;
+    list-style: none;
+    white-space: 8;
+
+}
